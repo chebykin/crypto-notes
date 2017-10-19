@@ -5,5 +5,10 @@
 * http://www.weekinethereum.com/
 * https://blog.cyber.fund/
 
-## Platforms
-* http://www.rsk.co/
+## Platforms - Programming Languages
+* https://ethereum.org/ - Solidity
+* https://eos.io/ - WebAssembly
+* http://www.rsk.co/ - 
+
+## Technologies
+* https://polkadot.io/
